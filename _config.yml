@@ -1,0 +1,12 @@
+
+title: Offensive Security & Malware
+email: miguel@mbie.me
+description: Casual blog about offensive security and malware topics I find interesting.
+baseurl: "" # the subpath of your site, e.g. /blog
+domain: mbie.me
+url: https://mbie.me
+twitter_username: friendlyapt
+github_username:  mbie0
+theme: minima
+plugins:
+  - jekyll-feed
